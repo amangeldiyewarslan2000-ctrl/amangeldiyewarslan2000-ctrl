@@ -12,8 +12,7 @@ I build mobile and backend systems with a focus on **security and clean architec
 
 ## 🚀 Things I've built
 - **Point-of-sale (cashier) application**
-- **AkHasap**, an accounting application
-- **Aisha**, a business application
+- **BayKassa**, a business application
 - **Access control system:** face recognition that opens the gate for employees
 - **Railway crossing alert:** detects an approaching train 1 km away,
   notifies the post via Telegram bot and closes the barriers
